@@ -1,6 +1,5 @@
 ## Hello! I'm João Pedro! 👋🏻
 ⚽ Flamengo <br>
-🔰 18 <br>
 🖥 Técnico Informática para Internet - Internet Computer Technician (IFES - Serra) <br>
 📚 Cursando Sistemas de Informação - Studying Information Systems 1/8 (IFES - Serra) <br>
 💡 Desenvolvedor do Laboratório de Extensão e Desenvolvimento de Sistemas (LEDS) - LEDS Developer 
