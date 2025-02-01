@@ -1,7 +1,8 @@
 ## Hello! I'm João Pedro! 👋🏻
 ⚽ Flamengo <br>
+🏆 Desenvolvedor - [LEDS](https://github.com/leds-conectafapes)
 🖥 Técnico Informática para Internet - Internet Computer Technician (IFES - Serra) <br>
-📚 Cursando Sistemas de Informação - Studying Information Systems 1/8 (IFES - Serra) <br>
+📚 Cursando Sistemas de Informação - Studying Information Systems 3/8 (IFES - Serra) <br>
 💡 Desenvolvedor do Laboratório de Extensão e Desenvolvimento de Sistemas (LEDS) - LEDS Developer 
 
 
