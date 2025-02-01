@@ -9,4 +9,4 @@
 
 💻 Tecnologias que já utilizei <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vue,vuetify,py,java,spring,mysql,postgres,php,js,ts,nodejs,html,css,bootstrap,git,github,androidstudio,docker,elixir,c,idea,linux,windows,maven,npm,obsidian,postman,powershell&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,vue,vuetify,angular,py,java,spring,mysql,postgres,php,js,ts,nodejs,html,css,bootstrap,git,github,androidstudio,docker,elixir,c,idea,linux,windows,maven,npm,obsidian,postman,powershell&perline=10)](https://skillicons.dev)
