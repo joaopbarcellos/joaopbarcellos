@@ -2,7 +2,7 @@
 ⚽ Flamengo <br>
 🏆 Desenvolvedor - [LEDS](https://github.com/leds-conectafapes) <br>
 🖥 Técnico Informática para Internet - Internet Computer Technician (IFES - Serra) <br>
-📚 Cursando Sistemas de Informação - Studying Information Systems 3/8 (IFES - Serra) <br>
+📚 Cursando Sistemas de Informação - Studying Information Systems 5/8 (IFES - Serra) <br>
 💡 Desenvolvedor do Laboratório de Extensão e Desenvolvimento de Sistemas (LEDS) - LEDS Developer 
 
 
